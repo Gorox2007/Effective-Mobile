@@ -1,4 +1,4 @@
-# ver4
+# Effective Mobile
 
 Небольшой проект под ТЗ на стажировку: FastAPI + PostgreSQL + JWT + роли/права.
 
@@ -73,4 +73,3 @@ uvicorn main:app --reload
 
 - `admin@example.com / Admin123!`
 - `student@example.com / Student123!`
-# Effective-Mobile
